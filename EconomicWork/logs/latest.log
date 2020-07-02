@@ -1,0 +1,31 @@
+[15:02:23] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:02:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:02:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:02:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:02:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:02:23] [main/INFO]: Loaded 0 recipes
+[15:02:23] [main/INFO]: Loaded 0 advancements
+[15:02:25] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[15:02:25] [Server thread/INFO]: Loading properties
+[15:02:25] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Неверный дескриптор
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_161]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_161]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_161]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_161]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_161]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_161]
+	at so$2.run(SourceFile:110) [server.jar:?]
+[15:02:25] [Server thread/WARN]: server.properties does not exist
+[15:02:25] [Server thread/INFO]: Generating new properties file
+[15:02:25] [Server thread/WARN]: Failed to load eula.txt
+[15:02:25] [Server thread/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+[15:02:25] [Server thread/INFO]: Stopping server
+[15:02:25] [Server thread/INFO]: Saving worlds
+[15:02:25] [Server Shutdown Thread/INFO]: Stopping server
+[15:02:25] [Server Shutdown Thread/INFO]: Saving worlds

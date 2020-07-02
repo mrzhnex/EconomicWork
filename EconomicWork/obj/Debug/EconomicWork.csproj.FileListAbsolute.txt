@@ -1,0 +1,7 @@
+C:\Users\Саша\source\repos\EconomicWork\EconomicWork\bin\Debug\EconomicWork.exe.config
+C:\Users\Саша\source\repos\EconomicWork\EconomicWork\bin\Debug\EconomicWork.exe
+C:\Users\Саша\source\repos\EconomicWork\EconomicWork\bin\Debug\EconomicWork.pdb
+C:\Users\Саша\source\repos\EconomicWork\EconomicWork\obj\Debug\EconomicWork.csprojAssemblyReference.cache
+C:\Users\Саша\source\repos\EconomicWork\EconomicWork\obj\Debug\EconomicWork.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\EconomicWork\EconomicWork\obj\Debug\EconomicWork.exe
+C:\Users\Саша\source\repos\EconomicWork\EconomicWork\obj\Debug\EconomicWork.pdb
